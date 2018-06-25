@@ -1,5 +1,7 @@
 # Getting-and-Cleaning-Data-Week-4-Assignment
 Human Activity recognizition
+
+
 This repo was created to complete the assignment for week 4 of Getting and Cleaning Data Coursera course. The code was written based on the following instructions provided for the assignment.
 
     Merge the training and the test sets to create one data set.
